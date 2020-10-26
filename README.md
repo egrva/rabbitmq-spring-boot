@@ -40,7 +40,7 @@ There are 3 kinds of exchanges in this project: *Fanout* , *Direct* and *Topic*
 * [Maven](https://maven.apache.org/) to buid project
 * [Java](https://www.oracle.com/ru/java/technologies/) language
 * [Lombok](https://projectlombok.org/) annotations
-* [RabbitMQ](https://www.rabbitmq.com/)
+* [RabbitMQ](https://www.rabbitmq.com/) to work with queues
 * [Apache POI](https://poi.apache.org/) to work with excel files
 * [iText](https://itextpdf.com/ru/products/itext-7/itext-7-core) to generate .pdf files
 * [FreeMarker](https://freemarker.apache.org/) to create html page for sending to email
